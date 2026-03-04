@@ -7,11 +7,8 @@
 
 ## 💻 Tech Stack
 
-<p align="center"><b>Frontend • Backend • Databases</b></p>
-
+<p align="center "><b>🌐 Frontend</b></p>
 ---
-
-### 🌐 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
