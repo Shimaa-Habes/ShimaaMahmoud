@@ -2,8 +2,18 @@
 “Hi, I’m Shimaa, an aspiring Fullstack Developer passionate about building interactive and efficient web applications.”<br>“I enjoy working on both frontend and backend development. Currently learning and experimenting with React, Node.js, and databases to become a skilled Fullstack Developer.”
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shimaa Habes‏) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shimaa Habes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimaahabis49@gmail.com) 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://linkedin.com/in/ShimaaHabes" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shimaahabis49@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" title="Email"/>
+  </a>
+</p>
+
 
 ## 💻 Tech Stack
 
