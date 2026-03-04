@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
 </p>
 
+---
 
 <p align="center"><b style="font-size:22px;">⚙️ Backend</b></p>
 <p align="center">
@@ -28,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
 </p>
 
+---
+
 <p align="center"><b style="font-size:22px;">🗄️ Databases</b></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
@@ -35,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
+---
 
 <p align="center"><b style="font-size:22px;">🛠️ Tools & Others</b></p>
 <p align="center">
